@@ -1,6 +1,6 @@
 # TimeWise
 
-TimeWise is cost management tool that allows associates to determine the cost of a potential meeting time based on proprietary calculations.<sup>1</sup> TimeWise is currently compatible with Google Calendar meetings, delievered to users through a Chrome Extension of the same name.
+TimeWise is a cost management tool that allows associates to determine the cost of a potential meeting time based on proprietary calculations.<sup>1</sup> TimeWise is currently compatible with Google Calendar meetings, delievered to users through a Chrome Extension of the same name.
 
 <em><sup>1</sup>proprietary calculations == use of the publicly available managerial level of each invitee to estimate members' hourly rates</em>
 
